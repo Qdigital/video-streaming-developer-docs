@@ -24,8 +24,8 @@
     "ibm-video-streaming-web-player-api": "^1.1.0",
     "md5": "^2.3.0",
     "prop-types": "^15.7.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "react-helmet": "^6.0.0",
     "smooth-scroll": "^16.1.3"
   },
